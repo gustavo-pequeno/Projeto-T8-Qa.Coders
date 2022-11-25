@@ -10,7 +10,7 @@ Então sou direcionado para a sessão "<sessao_name>"
 
 Exemplos:
 | btn_name      | sessao_name                          |
-| Sobre nós     | Sobre nós                            |
-| Depoimentos   | O Qa.Coders é feito para os alunos   | 
-| Parceiros     | Parceiros                            |
-| Fale_Conosco  | Fale Conosco                         |
+| sobre-nos     | Sobre nós                            |
+| depoimentos   | O Qa.Coders é feito para os alunos   | 
+| parceiros     | Parceiros                            |
+| faleConosco  | Fale Conosco                         |
